@@ -1,5 +1,5 @@
 {
-    "name":"zendframework/zendframework1_11",
+    "name":"zend_framework/zend_framework1_11",
     "version":"1.11.11",
     "require":{
         "php":">=5.3.0"
